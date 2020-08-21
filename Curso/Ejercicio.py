@@ -1,3 +1,6 @@
+
+# EJERCICIO INCOMPLETO
+
 """ Realiza una función llamada agregar_una_vez(lista, el) que reciba una lista y un elemento. 
 La función debe añadir el elemento al final de la lista con la condición de no repetir ningún 
 elemento. Además si este elemento ya se encuentra en la lista se debe invocar un error de tipo 
